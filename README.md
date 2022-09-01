@@ -21,4 +21,4 @@
 
 |                             名称                             |                             简述                             | 视频                                                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| [toc-generator](https://github.com/technote-space/toc-generator) | GitHub的Markdown目前不支持直接使用`[TOC]`渲染文章的目录，这个工具可以生成自动给文档生成目录描点。 | [![image_20220901_223415](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220901_223415.svg)](https://space.bilibili.com/237149104) |
+| [toc-generator](https://github.com/technote-space/toc-generator) | GitHub的Markdown目前不支持使用`[TOC]`预发渲染文章的目录，这个工具可以自动给文档生成目录锚点。 | [![image_20220901_223415](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220901_223415.svg)](https://space.bilibili.com/237149104) |
