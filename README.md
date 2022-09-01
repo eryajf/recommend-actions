@@ -10,13 +10,11 @@
 <p> 🌉 优秀的GitHub Actions推荐 🌉</p>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
-</div><br>
+
+![](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220901_220122.png)
+</div>
 
 
-<p align="center">
-  <a href="" rel="noopener">
- <img src="https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220901_220122.png" alt="Project logo"></a>
-</p>
 ## 小巧工具
 
 一些配置简单，功能好用的小工具，放在这个分类下。
@@ -24,6 +22,3 @@
 |                             名称                             |                       文档                        | 视频 |                             功能                             |
 | :----------------------------------------------------------: | :-----------------------------------------------: | :--: | :----------------------------------------------------------: |
 | [toc-generator](https://github.com/technote-space/toc-generator) | [二丫讲梵](https://wiki.eryajf.net/pages/226388/) |      | GitHub的Markdown目前不支持直接使用`[TOC]`渲染文章的目录，这个工具可以生成自动给文档生成目录描点。 |
-|                                                              |                                                   |      |                                                              |
-|                                                              |                                                   |      |                                                              |
-
